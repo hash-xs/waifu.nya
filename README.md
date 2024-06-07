@@ -1,2 +1,2 @@
-# waifu.nya
-Waifu Repository
+# waifus
+waifus repository
